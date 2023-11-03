@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -65,7 +64,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Important Note
+This project was created as an example use case of ButterCMS in conjunction with a blog article, [How to Build a Knowledge Base with Laravel and ButterCMS](https://buttercms.com/blog/create-laravel-knowledge-base-app-with-buttercms/), and will not be actively maintained.
+
+If you're interested in exploring the best, most up-to-date way to integrate Butter into projects, you can check out the following resources:
+
+### Starter Projects
+
+The following turn-key starters are fully integrated with dynamic sample content from your ButterCMS account, including main menu, pages, blog posts, categories, and tags, all with a beautiful, custom theme with already-implemented search functionality. All of the included sample content is automatically created in your account dashboard when you sign up for a free trial of ButterCMS.
+- [Nuxt.js Starter](https://buttercms.com/starters/nuxtjs-starter-project/)
+- [Angular Starter](https://buttercms.com/starters/angular-starter-project/)
+- [React Starter](https://buttercms.com/starters/react-starter-project/)
+- [Vue.js Starter](https://buttercms.com/starters/vuejs-starter-project/)
+- Or see a list of all our [currently-maintained starters](https://buttercms.com/starters/)
+
+### Other Resources
+- Check out the [official ButterCMS Docs](https://buttercms.com/docs/)
+- Check out the [official ButterCMS API docs](https://buttercms.com/docs/api/)
+
 =======
 # laravel-knowledge-base-tutorial
 How to Build a Knowledge Base with Laravel and ButterCMS
->>>>>>> 0f52e6ebf465cea241b7283abf1b3c2adb22be2e
